@@ -1,0 +1,1 @@
+import './static/assets/styles/styles.scss'
